@@ -1,0 +1,2 @@
+MSE on (scaled) Fashion MNIST last 1k images
+0.21607048943876983
